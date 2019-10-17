@@ -69,7 +69,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Source Sans Pro Bold', 'Source Sans Pro';
+  font-family:'Source Sans Pro Bold', 'Source Sans Pro Regular', 'Source Sans Pro';
   font-weight:700;
   font-style:normal;
   font-size:38px;
@@ -81,7 +81,7 @@
   top:213px;
   width:165px;
   height:48px;
-  font-family:'Source Sans Pro Bold', 'Source Sans Pro';
+  font-family:'Source Sans Pro Bold', 'Source Sans Pro Regular', 'Source Sans Pro';
   font-weight:700;
   font-style:normal;
   font-size:38px;
